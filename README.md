@@ -16,7 +16,17 @@ I am a **Fullstack Software, and ML/AI Solutions Developer**. I focus on archite
 - Visit my **[Artificial Intelligence Playground](ai.stephensanwo.dev)** to test open ML/AI applications I built
 - I’m currently learning **Web3 for DEFI, Scalable Software Architectures**
 
+#### New Blog Series
+- [Build a full stack AI Chatbot with GPT, React, FastAPI, Redis & AWS](https://www.stephensanwo.dev/blog/build-a-full-stack-ai-chatbot-part-i-introduction)
+- [Developer Guides - Getting Stuck on Coding Basics? Read this](https://www.stephensanwo.dev/blog/getting-stuck-on-coding-basics-read-this)
+- [Intermediate Python - Why you should use Virtual Environments in Python and how to set it up](https://www.stephensanwo.dev/blog/intermediate-python-why-you-should-use-virtual-environments-in-python-and-how-to-set-it-up)
 
+#### New AI Playground Release
+- [Conversational AI Chat Bot with GPT-J-6B](https://ai.stephensanwo.dev/gptj-chatbot)
+
+#### New Code Snipets
+- [FastAPI Boiler Plate Set up](https://www.stephensanwo.dev/code/fastapi-boiler-plate-set-up)
+- [React-Query useQuery setup with axios and Context API](https://www.stephensanwo.dev/code/react-query-usequery-setup-with-axios-and-context-api)
 
 ----
 
