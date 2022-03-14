@@ -6,9 +6,21 @@ I am a **Fullstack Software, and ML/AI Solutions Developer**. I focus on archite
 
 #### Tech Stack
 
+| Languages   | Backend Frameworks | Web/Mobile          | Databases           | Other               |
+| ----------- | ------------------ | ------------------- | ------------------- | ------------------- |
+| Python      | FastAPI            | React               | PostgreSQL          | AWS
+| Javascript  | Flask              | React Native        | MongoDB             | Docker
+| TypeScript  | NodeJs             | AlpineJs.           | Redis               | 
+| Go          | Net/HTTP           | HTML                |                     | 
+| SQL         |                    | CSS                 |                     | 
+|             |                    | VanillaJs           |                     | 
+
+
+
+
 #### Current Projects
 - **[OpenFlow](https://github.com/stephensanwo/openflow-client)** An open source Analytics Automation Workflow, built with GO, Python, React, TypeScript, Cadence, Redis, Postgresql, etc.
-- **[Wager]** Peer-to-peer social gaming
+- **Wager** Peer-to-peer social gaming
 
 #### Other stuff I'm doing
 - I write about APIs, Microservices, Frontend Development, Deep Learning, ML Ops, etc. @**[blog.stephensanwo.dev](https://stephensanwo.dev/blog)**
