@@ -23,9 +23,9 @@ I am a **Fullstack Software, and ML/AI Solutions Developer**. I focus on archite
 - **Wager** Peer-to-peer social gaming
 
 #### Other stuff I'm doing
-- I write about APIs, Microservices, Frontend Development, Deep Learning, ML Ops, etc. @**[blog.stephensanwo.dev](blog.stephensanwo.dev)**
-- I share helpful code snippets and developer cheatsheets @**[codeshare.stephensanwo.dev](codeshare.stephensanwo.dev)**
-- Visit my **[Artificial Intelligence Playground](ai.stephensanwo.dev)** to test open ML/AI applications I built
+- I write about APIs, Microservices, Frontend Development, Deep Learning, ML Ops, etc. @**[blog.stephensanwo.dev](https://blog.stephensanwo.dev)**
+- I share helpful code snippets and developer cheatsheets @**[codeshare.stephensanwo.dev](https://codeshare.stephensanwo.dev)**
+- Visit my **[Artificial Intelligence Playground](https://ai.stephensanwo.dev)** to test open ML/AI applications I built
 - I’m currently learning **Web3 for DEFI, Scalable Software Architectures**
 
 #### New Blog Series
