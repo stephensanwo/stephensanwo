@@ -17,7 +17,7 @@ I am a **Fullstack Software, and ML/AI Solutions Developer**. I focus on archite
 
 
 #### Current Projects
-- **[OpenFlow](https://github.com/stephensanwo/openflow-client)** An open source Analytics Automation Workflow, built with GO, Python, React, TypeScript, Cadence, Redis, Postgresql, etc.
+- **[OpenFlow](https://github.com/stephensanwo/openflow)** An open source Analytics Automation Workflow, built with GO, Python, React, TypeScript, Cadence, Redis, Postgresql, etc.
 - **Wager** Peer-to-peer social gaming
 
 #### Other stuff I'm doing
