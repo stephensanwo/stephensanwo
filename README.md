@@ -17,26 +17,23 @@ I am a **Fullstack Software, and ML/AI Solutions Developer**. I focus on archite
 
 
 #### Current Projects
-- **[OpenFlow](https://github.com/stephensanwo/openflow)** An open source Analytics Automation Workflow, built with GO, Python, React, TypeScript, Cadence, Redis, Postgresql, etc.
+- **[Open Workflow](https://github.com/stephensanwo/open-workflow)** An open source Analytics Automation Workflow, built with GO, Python, React, TypeScript, Redis, Postgresql, etc.
+- **HYPERCOMPOSE** Supercharge your writing with Artificial Intelligence (Private Beta)
 - **Wager** Peer-to-peer social gaming
 
 #### Other stuff I'm doing
 - I write about APIs, Microservices, Frontend Development, Deep Learning, ML Ops, etc. @**[blog.stephensanwo.dev](https://blog.stephensanwo.dev)**
-- I share helpful code snippets and developer cheatsheets @**[codeshare.stephensanwo.dev](https://codeshare.stephensanwo.dev)**
+- I share helpful code snippets and developer cheatsheets @**[blog.stephensanwo.dev](https://blog.stephensanwo.dev)**
 - Visit my **[Artificial Intelligence Playground](https://ai.stephensanwo.dev)** to test open ML/AI applications I built
 - I’m currently learning **Web3 for DEFI, Scalable Software Architectures**
 
 #### New Blog Series
 - [Build a full stack AI Chatbot with GPT, React, FastAPI, Redis & AWS](https://www.stephensanwo.dev/blog/build-a-full-stack-ai-chatbot-part-i-introduction)
 - [Developer Guides - Getting Stuck on Coding Basics? Read this](https://www.stephensanwo.dev/blog/getting-stuck-on-coding-basics-read-this)
-- [Intermediate Python - Why you should use Virtual Environments in Python and how to set it up](https://www.stephensanwo.dev/blog/intermediate-python-why-you-should-use-virtual-environments-in-python-and-how-to-set-it-up)
+- [Intermediate Python - Why you should use Virtual Environments in Python and how to set it up](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
 
 #### New AI Playground Release
 - [Conversational AI Chat Bot with GPT-J-6B](https://ai.stephensanwo.dev/gptj-chatbot)
-
-#### New Code Snipets
-- [FastAPI Boiler Plate Set up](https://www.stephensanwo.dev/code/fastapi-boiler-plate-set-up)
-- [React-Query useQuery setup with axios and Context API](https://www.stephensanwo.dev/code/react-query-usequery-setup-with-axios-and-context-api)
 
 ----
 
