@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Banner Image](https://github.com/stephensanwo/stephensanwo/blob/main/images/banner.svg)
-
-I am a **Fullstack Software, and ML/AI Solutions Developer**. I focus on architecting data-driven software that solve domain specific problems in complex data-oriented environments (i.e. Financial Services Sector and Consumer Markets). I currently lead an analytics solutions development team at KPMG Nigeria, focused on developing and maintaining scalable analytics software solutions for clients. Some of my most recent work at KPMG Nigeria include: ATM Reconciliation Application for Banks 
+I am a **Fullstack Software, and ML/AI Solutions Engineer**. I focus on architecting data-driven software that solve domain specific problems in complex data-oriented environments (i.e. Financial Services Sector and Consumer Markets). I currently lead an analytics solutions development team at KPMG Nigeria, focused on developing and maintaining scalable analytics software solutions for clients. Some of my most recent work at KPMG Nigeria include: ATM Reconciliation Application for Banks 
 
 #### Tech Stack
 
